@@ -1,0 +1,18 @@
+{
+  "name": "conditional-model",
+  "main": "built/conditional-model.js",
+  "version": "0.0.0",
+  "description": "Some module...",
+  "dependencies": {
+    "lowercase-backbone": "~0.2.5",
+    "object-query": "*",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "qunit": "*"
+  }
+}
